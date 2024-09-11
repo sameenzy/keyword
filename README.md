@@ -65,7 +65,7 @@ CISC (Complex Instruction Set Computer) is a type of computer architecture that 
 
 ISC-V is an open-source, RISC (Reduced Instruction Set Computer) architecture designed to be a highly extensible and modular instruction set architecture (ISA). It represents a significant departure from traditional proprietary ISAs by offering a freely available and customizable framework that allows developers and researchers to create custom processors and systems
 
-##### 15.. FPGA:-
+##### 15. FPGA:-
 
 FPGA (Field-Programmable Gate Array) is a type of integrated circuit that can be configured by the user after manufacturing. Unlike traditional fixed-function chips, FPGAs can be programmed to perform a wide range of tasks, making them highly versatile and adaptable for various applications.
 
